@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<text CRDATE="24 03 2023 15:38:33" PARAMS="ETAPOPTION=RO; DOMAINS=COMMON-DOMAIN; LEVEL=$TRUE; PARAFR=$FALSE; STAT=N; SENTFEATS=STDSENT; SYNTMODE=STDSYNT; USESTAT=USESTATNO; USENER=$FALSE; NERMODE=DEFAULTNER; ALTTR=$TRUE; MWORDFORM=$TRUE; SYNTAXONLY=$FALSE; SOFTSENTBR=$FALSE; EXPERMODE=EXPER_OFF; DISAMBMODE=DISAMB_OFF; MAXALTNUM=NORMALNUM; SPEECHMODE=SPEECHMODENO; JOFICATION=$FALSE; ">
+<inf>
+<date/>
+<title>Маленький принц</title>
+</inf>
+<body>
+<S DATE="24 03 2023 15:39:18" ID="1">
+<W DOM="2" EXTRAFEAT="CAP" FEAT="A ЕД МУЖ ИМ" HYPOT="опред.01" ID="1" KSNAME="МАЛЕНЬКИЙ" LEMMA="МАЛЕНЬКИЙ" LINK="опред">Маленький</W> 
+<W DOM="_root" EXTRAFEAT="ЗЕРО" FEAT="S ЕД МУЖ ИМ ОД" HYPOT="root" ID="2" KSNAME="ПРИНЦ" LEMMA="ПРИНЦ">принц</W>.
+<SEM/>
+</S>
+<S DATE="24 03 2023 15:39:22" ID="2">
+<W DOM="_root" EXTRAFEAT="CAP ЛИЧ" FEAT="V СОВ ПОВ ЕД 2-Л" HYPOT="root" ID="1" KSNAME="РИСОВАТЬ" LEMMA="РИСОВАТЬ">Нарисуй</W> 
+<W DOM="1" FEAT="S ЕД МУЖ ВИН ОД" HYPOT="1-компл.11" ID="2" KSNAME="БАРАШЕК1" LEMMA="БАРАШЕК" LINK="1-компл">барашка</W>.
+<SEM/>
+</S>
+</body>
+</text>
